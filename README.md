@@ -2,7 +2,7 @@
 
 # Feliz Natal!
 
-**Animação natalina interativa — experimento de estudo**
+**Animação natalina interativa**
 
 *Baseado em tutorial do CodingStella, modificado e expandido*
 
@@ -22,7 +22,7 @@
 
 Experimento desenvolvido durante meus estudos, baseado no tutorial [Merry Christmas Tree Animation](https://codingstella.com/how-to-create-merry-christmas-tree-animation-using-html-css-javascript/) do CodingStella. O código original foi modificado para incluir uma animação de digitação e a revelação de uma mensagem especial ao clicar em um botão.
 
-🌐 [Acesse o projeto](https://lucas16716.github.io/natal/)
+🌐 [Acesse o projeto](https://lvcascouto.github.io/natal/)
 
 <h2 id="funcionalidades">FUNCIONALIDADES</h2>
 
@@ -62,5 +62,5 @@ Este projeto é baseado no código do [CodingStella](https://codingstella.com), 
 
 <h2>AUTOR</h2>
 
-Desenvolvido por [Lucas Couto](https://linkedin.com/in/lucas-coutoti).  
-Conheça meu trabalho em [Lucas Code](https://bio.site/lucascode).
+Desenvolvido por [Lucas Couto](https://linkedin.com/in/lucascouto-dev).  
+Veja meu trabalho em [Lucas Code](https://lvcascode.com.br).
