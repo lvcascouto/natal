@@ -1,6 +1,6 @@
 <div align="center">
 
-# Feliz Natal!
+# Feliz Natal! 🎄
 
 **Animação natalina interativa**
 
